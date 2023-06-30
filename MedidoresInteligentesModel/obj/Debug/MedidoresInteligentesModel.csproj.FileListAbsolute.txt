@@ -1,0 +1,6 @@
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\bin\Debug\MedidoresInteligentesModel.dll
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\bin\Debug\MedidoresInteligentesModel.pdb
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\obj\Debug\MedidoresInteligentesModel.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\obj\Debug\MedidoresInteligentesModel.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\obj\Debug\MedidoresInteligentesModel.dll
+C:\Users\Agustin\Desktop\C# - Unidad 3\MedidoresInteligentes.imz\MedidoresInteligentesModel\obj\Debug\MedidoresInteligentesModel.pdb
